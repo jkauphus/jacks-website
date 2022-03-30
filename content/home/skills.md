@@ -21,13 +21,26 @@ feature:
   icon_pack: fab
   name: R
 - description: 100%
-  icon: chart-line
+  icon: globe-americas
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: GIS
+- description: 40%
+  icon: flask
   icon_pack: fas
-  name: Photography
+  name: Laboratory
+- description: 25%
+  icon: network-wired
+  icon_pack: fas
+  name: Software & Web Dev
+- description: 75%
+  icon: water
+  icon_pack: fas
+  name: Wetland Delineation
+- description: 90%
+  icon: frog
+  icon_pack: fas
+  name: Biological Surveys
+  
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"

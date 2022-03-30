@@ -2,14 +2,14 @@
   "name": "Jack Kauphusman",
   "short_name": "Jack Kauphusman",
   "lang": "en-us",
-  "theme_color": "#1565c0",
-  "background_color": "#1565c0",
+  "theme_color": "#F17E23",
+  "background_color": "#F17E23",
   "icons": [{
-    "src": "/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png",
+    "src": "/media/icon_hu4ece406dbb35e17a77a588296f33a260_74455_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png",
+    "src": "/media/icon_hu4ece406dbb35e17a77a588296f33a260_74455_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
